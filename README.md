@@ -8,13 +8,15 @@ The [Windfall Clause](https://www.fhi.ox.ac.uk/windfallclause/) is a proposed co
 
 | Desideratum | Description | Justification | 
 |----------|:-------------:| :-------------:|
-| ***Transparency*** | Determining whether a signatory has met their obligations is easy | Avoids costly disputes and public relations benefits |
-| ***Elasticity*** | The amount owed under the Clause depends on the size of the global economy when triggered | Maintains focus on relative windfall, not nominal profits |
-| ***Adequacy*** | The amount owed under the Clause is proportionate to the challenges it seeks to address | Respects the seriousness of the policy motivations for the Clause |
-| ***Nominal Near-Windfall Commitment*** | Signatories owe small-but-nonzero amounts as they approach windfall profit levels | Demonstrates signatories’ intent to be bound; tests effectiveness of Clause |
-| ***Incentive Alignment*** | Signatories should always have an incentive to earn more profits | Diminishes incentives for evading Clause obligations |
-| ***Competitiveness*** | Signatories remain competitive with non-signatory developers | Prevents perverse effect of causing non-signatories to out-compete signatories |
+| ***Transparency*** | Determining whether a signatory has met their obligations is easy | *Avoids costly disputes and public relations benefits* |
+| ***Elasticity*** | The amount owed under the Clause depends on the size of the global economy when triggered | *Maintains focus on relative windfall, not nominal profits* |
+| ***Adequacy*** | The amount owed under the Clause is proportionate to the challenges it seeks to address | *Respects the seriousness of the policy motivations for the Clause* |
+| ***Nominal Near-Windfall Commitment*** | Signatories owe small-but-nonzero amounts as they approach windfall profit levels | *Demonstrates signatories’ intent to be bound; tests effectiveness of Clause* |
+| ***Incentive Alignment*** | Signatories should always have an incentive to earn more profits | *Diminishes incentives for evading Clause obligations* |
+| ***Competitiveness*** | Signatories remain competitive with non-signatory developers | *Prevents perverse effect of causing non-signatories to out-compete signatories* |
 
 ### DeFi
+
+
 
 ### AI
